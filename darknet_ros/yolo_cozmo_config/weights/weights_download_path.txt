@@ -1,0 +1,1 @@
+smb://161.122.114.157/cjsteam/Users(157)/빈현욱/cozmo_yolo_weight
